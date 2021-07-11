@@ -92,3 +92,4 @@ async function addServicesListIfNeeded(context: IActionContext, workspaceFolder:
         return command;
     }
 }
+// edit this file to change reset to refresh and add a true reset
